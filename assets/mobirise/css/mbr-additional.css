@@ -1,0 +1,46 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+
+#form1-w .btn {
+  font-family: 'Playfair Display', sans-serif;
+}
+#form1-w .mbr-section-title {
+  color: #fff8e0;
+}
+#form1-11 .mbr-section-title {
+  color: #fff8e0;
+}
+
+
+#header1-7 H1 {
+  color: #fff8e0;
+}
+#header1-7 P {
+  color: #fff8e0;
+  text-align: right;
+  font-size: 32px;
+}
+#header1-7 I {
+  font-size: 48px;
+  font-family: 'Playfair Display', sans-serif;
+}
+#msg-box3-s .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-s .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#contacts1-u DIV {
+  text-align: right;
+}
+#contacts1-u P {
+  font-size: 15px;
+  text-align: left;
+}
+#menu-1h .navbar-toggler {
+  color: #000000;
+}
+#menu-1h .nav-link {
+  font-size: 30px;
+  font-family: 'Alegreya Sans', sans-serif;
+}
